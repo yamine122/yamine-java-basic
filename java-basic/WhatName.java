@@ -4,6 +4,6 @@
 
 class WhatName {
     public static void main(String[] args) {
-         System.out.print("¿Ã∏ß¿Ã ππ¥œ?"); 
+         System.out.print("What's your name ?"); 
     }
 }
